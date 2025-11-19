@@ -1,11 +1,14 @@
 
 ![](https://scontent-sin6-3.xx.fbcdn.net/v/t39.30808-6/585353354_838094382142234_8515091832230749717_n.png?_nc_cat=110&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=i-neXsAtEVQQ7kNvwEDqnNo&_nc_oc=AdnDQdmGp8yZv9-k6tnwFSQREs5QOJOlLz67Xnle4JMd3b2YnT8hZIfK-W62gL0_UFgekFF2tVWndaAAZ3LpHgi-&_nc_zt=23&_nc_ht=scontent-sin6-3.xx&_nc_gid=GWYJThYSmRwMP_CSLQgUvA&oh=00_AfhquscBPODNeJcoa1ymKSYdgXwLSlG70x9_K-yE53TmlQ&oe=69233AE7)
 
+### Hi there 👋, I'm Hasan Mahamud
 
-### Hi there 👋, I'm Hasan Mahamud — a Frontend & MERN Stack Developer
+#### Beginner Frontend & MERN Stack Developer  
+I am learning to build **real-world web applications** using **React, Tailwind CSS**, and **Node.js/Express/MongoDB**.  
+I enjoy creating **interactive UIs** and exploring **server-side development** to improve my skills.
 
-#### I’m a MERN stack learner focused on creating **real-life web applications**.  
-I enjoy building **interactive UI** with React & Tailwind and exploring **server-side development** with Node.js Express.js and MongoDB.  
+
+## Skills : 
 
 | **Domain** | **Tech Stack & Tools** |
 |------------|-----------------------|
