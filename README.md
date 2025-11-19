@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm Md Hasan Ali</h1>
-<h3 align="center">I'm a student of Diploma</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasanali01947&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasanali01947" /> </p>
+![I am GitHub Readme Generator's creator](https://scontent-sin2-2.xx.fbcdn.net/v/t39.30808-6/582940634_837984482153224_6173580079746293783_n.png?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=eDHIKcXCfCcQ7kNvwHvoLDn&_nc_oc=AdlmBGP_vh5MsrDMdW6FA6yr4hD5tUV3Vdrl0gY5yrEC7MVlxl1oBs_Ky2q-mAxeZgsDnHuvvFXAdpRir_t9Hznn&_nc_zt=23&_nc_ht=scontent-sin2-2.xx&_nc_gid=ED4Gp4n4t4jELSgATbVkTA&oh=00_AfjjT35ZjOtOecY5Sl1gMAeBIVX56yOMqtqkYZ9I-IHpiw&oe=6922ECE8)
 
-- 🌱 I’m currently learning **JavaScript**
+### Hi there 👋, I'm Hasan Mahamud — a Frontend & MERN Stack Developer
+#### I am GitHub Readme Generator's creator
 
-- 👨‍💻 All of my projects are available at [MdHasanAli01947](MdHasanAli01947)
 
-- 💬 Ask me about **JavaScript**
+“I’m a MERN stack learner focused on creating real-life web applications. I enjoy building UI with React & Tailwind and exploring server-side development with Node and MongoDB.”
 
-- 📫 How to reach me **mdhassanali01947@gmail.com**
+Skills: HTML/CSS/JavaScript/React.js/Tailwind CSS/Express.js/MongokDB/Git & GitHub
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- 🌱 I’m currently learning Next.js MongoDB 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: mdhasanmahamud01947@gmail.com 
+- ⚡ Fun fact: I love learning new web technologies every single day. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhasanali01947&show_icons=true&locale=en&layout=compact" alt="mdhasanali01947" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdHasanAliGHUN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdhasanmahamudl/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/MdHasanMahamudF1)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MdHasanAliGHUN)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHasanAliGHUN)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdHasanAliGHUN&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdHasanAliGHUN/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/MdHasanAliGHUN)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MdHasanAliGHUN)  
+
