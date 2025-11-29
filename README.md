@@ -27,11 +27,9 @@ I enjoy creating **interactive UIs** and exploring **server-side development** t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MdHasanAliGHUN)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHasanAliGHUN)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdHasanAliGHUN&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MdHasanAliGHUN/contributions?format=svg&private=true)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/MdHasanAliGHUN)  
 
